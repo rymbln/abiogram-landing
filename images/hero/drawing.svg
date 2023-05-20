@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="763mm"
+   height="758mm"
+   viewBox="0 0 763 758"
+   version="1.1"
+   id="svg357"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview359"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.14030934"
+     inkscape:cx="748.34646"
+     inkscape:cy="1265.0619"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs354" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g309"
+       transform="matrix(0.18582702,0,0,0.18576886,-177.56059,-133.98017)">
+      <g
+         class="com.sun.star.drawing.ClosedBezierShape"
+         id="g56">
+        <g
+           id="id3">
+          <rect
+             class="BoundingBox"
+             stroke="none"
+             fill="none"
+             x="1409"
+             y="1230"
+             width="2338"
+             height="3063"
+             id="rect51" />
+          <path
+             fill="#eb008b"
+             stroke="none"
+             d="m 3655,2285 c 191,-342 69,-775 -274,-965 -342,-191 -774,-69 -965,274 -122,220 -115,476 -4,681 66,123 65,270 -3,392 -67,122 -193,199 -332,208 -233,13 -455,142 -577,361 -191,342 -68,774 274,965 342,191 774,68 964,-274 123,-219 116,-475 5,-681 -66,-123 -66,-270 2,-392 68,-121 193,-199 332,-207 234,-14 456,-143 578,-362 z"
+             id="path53" />
+        </g>
+      </g>
+      <g
+         class="com.sun.star.drawing.ClosedBezierShape"
+         id="g63">
+        <g
+           id="id4">
+          <rect
+             class="BoundingBox"
+             stroke="none"
+             fill="none"
+             x="3194"
+             y="2886"
+             width="1414"
+             height="1407"
+             id="rect58" />
+          <path
+             fill="#90278e"
+             stroke="none"
+             d="m 3873,2886 c 382,-8 725,319 733,700 7,385 -317,705 -714,705 -393,-1 -686,-279 -698,-663 -13,-397 295,-733 679,-742 z"
+             id="path60" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
