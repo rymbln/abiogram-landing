@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://abiogram.ru/</loc>
+    <loc>https://abiogram.ru/blog/hugo-and-its-future/</loc>
     <lastmod>2020-09-07T20:18:07+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abiogram.ru/blog/hugo-and-its-future/</loc>
+    <loc>https://abiogram.ru/</loc>
     <lastmod>2020-09-07T20:18:07+06:00</lastmod>
   </url>
   
@@ -72,6 +72,10 @@
   
   <url>
     <loc>https://abiogram.ru/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abiogram.ru/about/</loc>
   </url>
   
   <url>
